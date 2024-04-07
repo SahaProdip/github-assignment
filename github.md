@@ -1,6 +1,6 @@
 ```
 git init
-git remote add origin https://github.com/SahaProdip/github-assignment.git
+git remote add origin sahaprodip.github.io
 git status
 git add .
 git commit -m "Initial commit"
